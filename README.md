@@ -1,14 +1,10 @@
 # AI CCTV System Child Abuse Detection
 
-2021 빅데이터 청년인재 고려대과정 10조 - 괴도키즈
----
-
 
 - **프로젝트 개요** : CNN + BiLSTM을 통한 CCTV 실시간 아동학대 감지 시스템
 
 - **프로젝트 작업 기간** : 2021.07.04 ~ 2021.08.28
 
-- **팀원** : 김규민, 김규원, 김석기, 김호준, 이은서
 
 
 ![Logo](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/26e41d62-5d22-48e0-ad00-712422ba4884/%EA%B4%B4%EB%8F%84%ED%80%B4%EC%A6%88.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAT73L2G45O3KS52Y5%2F20210828%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20210828T004045Z&X-Amz-Expires=86400&X-Amz-Signature=ba5ca45a58050060fd58e6fc02b63d7a1eb68909bdb626ca2267295647bd1932&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D%22%25EA%25B4%25B4%25EB%258F%2584%25ED%2580%25B4%25EC%25A6%2588.png%22)
