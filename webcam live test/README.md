@@ -13,3 +13,5 @@ $ python "VIDEO COUNT" "DL SERVER" "VIDEO"
 # Note
 
 - 현재 딥러닝 서버는 구동중이 아니므로 실행이 불가능합니다.
+
+작성자 : 김석기
